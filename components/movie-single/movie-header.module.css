@@ -1,0 +1,23 @@
+.title {
+  color: #444;
+  margin-bottom: 5px;
+  font-size: 3em;
+}
+
+.votes {
+  color: #777;
+  font-size: 12px;
+  background: red;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  color: #fff;
+  line-height: 45px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+.genres {
+  color: #777;
+}
